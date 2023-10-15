@@ -1,0 +1,1 @@
+function main(){const e=document.querySelector(".toggle-button"),t=document.querySelector("nav#example-5 ul");e.addEventListener("click",(()=>{t.classList.toggle("active")}))}main();
